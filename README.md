@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RiftBot
+- 👀 I’m interested in Learning new Launguages.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Nothing at the moment.
+- 📫 How to reach me ImBored#5959
+- Working on: A discord bot called riftbot.
